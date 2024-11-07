@@ -1,7 +1,3 @@
-Sure! Here's an updated version of your `README` file with emojis added to make it more engaging and visually appealing.
-
----
-
 # 🏏 Cricket Player Information App
 
 Welcome to the **Cricket Player Information App**! This app allows users to search for detailed cricket player statistics and personal information by entering a player's name. It fetches data from the **GROQ API**, which provides in-depth cricket player statistics such as career stats, debut information, notable achievements, and more. The app also displays the player's image and description. 🎉
